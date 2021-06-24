@@ -1,0 +1,327 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "daniel",
+                    "last": "heinz"
+                },
+                "location": {
+                    "street": "1307 kastanienweg",
+                    "city": "tuttlingen",
+                    "state": "sachsen-anhalt",
+                    "zip": 39587
+                },
+                "email": "daniel.heinz@example.com",
+                "username": "bigbutterfly250",
+                "password": "686868",
+                "salt": "CuotlqAZ",
+                "md5": "febbf0bcd73fe7c7b84380ad5f27648d",
+                "sha1": "491c0ed93044e3d7fff01c256b2665d1ce099f27",
+                "sha256": "07383cb34c38b17803799a6dced8d3fd8369110d790ade09ca120d3172cce68a",
+                "registered": 1437780356,
+                "dob": 779665305,
+                "phone": "0287-6769672",
+                "cell": "0173-9831134",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "amanda",
+                    "last": "bruns"
+                },
+                "location": {
+                    "street": "4916 wiesenstraße",
+                    "city": "straubing",
+                    "state": "brandenburg",
+                    "zip": 42722
+                },
+                "email": "amanda.bruns@example.com",
+                "username": "goldenrabbit766",
+                "password": "student",
+                "salt": "Bco9ShNj",
+                "md5": "cb4d4c7d7ed0cafdf090ce6e02cc2bf8",
+                "sha1": "ab65348fd19d719b724380ea793505bb40e0aefd",
+                "sha256": "c219fc5dcc62f9f12d25bf625cc3670f2f8897c1adc2782db81599d47afd02f3",
+                "registered": 1352507350,
+                "dob": 1080995093,
+                "phone": "0685-9089913",
+                "cell": "0179-6743674",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/85.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "bastian",
+                    "last": "schreiner"
+                },
+                "location": {
+                    "street": "8948 gartenweg",
+                    "city": "essen",
+                    "state": "baden-württemberg",
+                    "zip": 31250
+                },
+                "email": "bastian.schreiner@example.com",
+                "username": "greenkoala861",
+                "password": "figaro",
+                "salt": "9631fhOr",
+                "md5": "1699ff7762447520d36c3fb6d9bdfb92",
+                "sha1": "fcdc96628065068567f13c83db9ac553f3ecbe3c",
+                "sha256": "e16c57b5de8df314ebbaa5ac69deb2f4a12317b2173256e4813932c9df64b949",
+                "registered": 1400848439,
+                "dob": 364769075,
+                "phone": "0748-7928007",
+                "cell": "0178-2056296",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "frederik",
+                    "last": "adam"
+                },
+                "location": {
+                    "street": "7017 kirchplatz",
+                    "city": "leer",
+                    "state": "niedersachsen",
+                    "zip": 80447
+                },
+                "email": "frederik.adam@example.com",
+                "username": "orangeleopard647",
+                "password": "officer",
+                "salt": "uEXUq8Gr",
+                "md5": "2dfc61356282edab3e5c10b02bffbf6e",
+                "sha1": "2898aacbc5dc7295ee23592e25711cbe7d6abac2",
+                "sha256": "f674b66aec07b6f9c3789ed503e61e60821c12651325796487b8ee145583b001",
+                "registered": 985396406,
+                "dob": 364146142,
+                "phone": "0439-4077041",
+                "cell": "0173-6804369",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/88.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "laurenz",
+                    "last": "dittrich"
+                },
+                "location": {
+                    "street": "7359 kirchweg",
+                    "city": "daun",
+                    "state": "baden-württemberg",
+                    "zip": 80580
+                },
+                "email": "laurenz.dittrich@example.com",
+                "username": "crazyladybug161",
+                "password": "eeeeee",
+                "salt": "dvRGk0NB",
+                "md5": "880f0b471e45f25951cfa2126118d24a",
+                "sha1": "40062293805967be300a4f78fa6649774c69c335",
+                "sha256": "da38b7f56fd61fb560dcdab2b3d21e71c55f926651986ddb1007a1ee3a4ebd02",
+                "registered": 1239235611,
+                "dob": 335307562,
+                "phone": "0414-0529330",
+                "cell": "0176-1365526",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "tommi",
+                    "last": "gebhardt"
+                },
+                "location": {
+                    "street": "5162 drosselweg",
+                    "city": "dortmund",
+                    "state": "thüringen",
+                    "zip": 23302
+                },
+                "email": "tommi.gebhardt@example.com",
+                "username": "lazyostrich125",
+                "password": "stewart",
+                "salt": "uVeOyY9R",
+                "md5": "5cca187366d353188669f14a27d56e3e",
+                "sha1": "b3a6584f885be1267a11010e786f7a62bc153318",
+                "sha256": "49e66936dea31492f23e3e6718e67c8e7bb1d30c0789b254b45d366c869da225",
+                "registered": 1410814243,
+                "dob": 334036453,
+                "phone": "0287-0072592",
+                "cell": "0170-8624410",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/1.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "fritz",
+                    "last": "lang"
+                },
+                "location": {
+                    "street": "5703 berliner straße",
+                    "city": "helmstedt",
+                    "state": "bayern",
+                    "zip": 17288
+                },
+                "email": "fritz.lang@example.com",
+                "username": "smallbutterfly534",
+                "password": "snapple",
+                "salt": "qNatZH9L",
+                "md5": "69941b5a42b6803f32f0175daff5cca3",
+                "sha1": "97225903f3c5b69524b5926082c4b42aadde446a",
+                "sha256": "564825dabf14f93d94630682186bde69615780619833e2aa2c4eed721b2521f1",
+                "registered": 1012765204,
+                "dob": 606447036,
+                "phone": "0893-4577967",
+                "cell": "0171-5278775",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/6.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "miss",
+                    "first": "angelina",
+                    "last": "fink"
+                },
+                "location": {
+                    "street": "6664 poststraße",
+                    "city": "börde",
+                    "state": "brandenburg",
+                    "zip": 66107
+                },
+                "email": "angelina.fink@example.com",
+                "username": "organicmouse399",
+                "password": "billie",
+                "salt": "XJ9YvjBB",
+                "md5": "3ee9c026405fccc62dd0e4ea530dc707",
+                "sha1": "07c9afcd2a8d0783911bea1331bc14d6bbb8c1af",
+                "sha256": "c3f42451c4720b4324d242e02afa9ee919574db2874c96015af5bda7d4de48af",
+                "registered": 1240988409,
+                "dob": 622468002,
+                "phone": "0248-1720326",
+                "cell": "0173-7189234",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "robert",
+                    "last": "pohl"
+                },
+                "location": {
+                    "street": "4697 uhlandstraße",
+                    "city": "offenbach",
+                    "state": "baden-württemberg",
+                    "zip": 29392
+                },
+                "email": "robert.pohl@example.com",
+                "username": "smallfrog490",
+                "password": "internet",
+                "salt": "QADsRzGh",
+                "md5": "e1632418b6424ff8bf6b53814204dd03",
+                "sha1": "55fcb95d5de63d326cb591de270a4c15c2152afc",
+                "sha256": "394ba21061c02abb3ffd1186da222d49effde5fa54d89d76845cd7e8e3370788",
+                "registered": 1363042214,
+                "dob": 1298732086,
+                "phone": "0439-9939079",
+                "cell": "0170-8986066",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "benedikt",
+                    "last": "richter"
+                },
+                "location": {
+                    "street": "2386 mittelweg",
+                    "city": "burgenland",
+                    "state": "niedersachsen",
+                    "zip": 72298
+                },
+                "email": "benedikt.richter@example.com",
+                "username": "purplewolf948",
+                "password": "ventura",
+                "salt": "vOQZKin7",
+                "md5": "5c4d0dba0550693bb906c22ac611046f",
+                "sha1": "c5bdb735a2417db42856fa3f76f1dd8aba82f714",
+                "sha256": "2602bb66f90766673e7044f8db3ed3e6e4f20910bbe24f370dfc6a00d145396d",
+                "registered": 1219309724,
+                "dob": 965270596,
+                "phone": "0501-4675924",
+                "cell": "0174-8163022",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "DE",
+    "seed": "0e7c564923709c3c04",
+    "version": "0.8"
+}
